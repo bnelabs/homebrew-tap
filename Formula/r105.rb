@@ -3,7 +3,7 @@ class R105 < Formula
 
   desc "Local-first AI harness for OpenAI-compatible backends"
   homepage "https://github.com/bnelabs/r105"
-  url "https://files.pythonhosted.org/packages/source/r/r105/r105-0.7.0.tar.gz"
+  url "https://files.pythonhosted.org/packages/33/27/f9b7e0e4e28573b52d42ac8c31af97fd9fd72f28453142ab0edb1a7caaaa/r105-0.7.0.tar.gz"
   sha256 "7c8912243a75403de91940949505cc115ce851c80a13a6003b8c1cd645ae8818"
   license "MIT"
 
